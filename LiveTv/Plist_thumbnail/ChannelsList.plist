@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LatestChannelLogoUrl</key>
+	<string>russia24.png</string>
+	<key>LatestChannelScrollText</key>
+	<string>Russia 24 (Russian: Россия 24) is a VGTRK-owned international and national Russian-language news channel from Russia. It covers major national and international events with a Russian perspective and a focus on domestic issues.</string>
+	<key>LatestChannelLiveUrl</key>
+	<string>http://vgtrk-iph.cdnvideo.ru/r/smil:iph2.smil/playlist.m3u8</string>
+	<key>Channels</key>
+	<array>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>Aljazeera</string>
+			<key>ImageUrl</key>
+			<string>aljazeera.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://akamedia2.lsops.net/live/smil:aljazeer_en.smil/playlist.m3u8?token=0680320b260f258c3dc99</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>BBC News</string>
+			<key>ImageUrl</key>
+			<string>bbcnews.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://akamedia2.lsops.net/live/smil:bbcnews_en.smil/playlist.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>BBC World News</string>
+			<key>ImageUrl</key>
+			<string>bbcworldnews.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://94.23.22.103/iphone/downloads/ch6/index.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>CNN International</string>
+			<key>ImageUrl</key>
+			<string>cnn.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://akamedia2.lsops.net/live/smil:cnn_en.smil/playlist.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>Didect 8</string>
+			<key>ImageUrl</key>
+			<string>direct8.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://cupertino-streaming-1.hexaglobe.com/streaming/direct8/playlist.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>EuroNews</string>
+			<key>ImageUrl</key>
+			<string>euronews.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://195.178.113.44/streaming/euronews_ewns/ipad_en.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>Nasa Tv</string>
+			<key>ImageUrl</key>
+			<string>nasatv.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://iphoned5.akamai.com.edgesuite.net/mhbarron/nasatv/nasatv_all.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>Russia Today</string>
+			<key>ImageUrl</key>
+			<string>rt.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://akamedia2.lsops.net/live/smil:rustoday_en.smil/playlist.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>Russia 24</string>
+			<key>ImageUrl</key>
+			<string>russia24.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://vgtrk-iph.cdnvideo.ru/r/smil:iph2.smil/playlist.m3u8</string>
+		</dict>
+		<dict>
+			<key>ChannelTitle</key>
+			<string>Tele 1</string>
+			<key>ImageUrl</key>
+			<string>tele1.png</string>
+			<key>ChannelLiveUrl</key>
+			<string>http://fl1.sz.xlcdn.com/live/definst_/sz=ZentralschweizerFernsehenTele1AG=flash-high_3/playist.m3u8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
